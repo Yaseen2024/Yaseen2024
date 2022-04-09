@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yaseen
 - 👀 I’m interested in creating a creative thing 
-- 🌱 I’m currently learning python,java,linux
+- 🌱 I’m currently learning python,java
 - 📫 How to reach me - always online 
 
 <!---
