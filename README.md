@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yaseen
-- 👀 I’m interested in creating a creative thing 
+- 👀 I’m interested in creating things that make work easier
 - 🌱 I’m currently learning python,java
 - 📫 How to reach me - always online 
 
